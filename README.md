@@ -15,7 +15,6 @@ File 4: 4.count coin.py
 This file demonstrates coin detection and classification based on their sizes.
 
 File 5: 5.Face Detection.py
-
 This file demonstrates face and eye detection in an image, as well as cat face detection.
 
 Note: Please make sure to place the image files (apple.png, morph.png, coins.png, and family.jpg) in the same directory as the Python files.
