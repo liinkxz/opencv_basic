@@ -13,4 +13,4 @@ This file demonstrates different morphological operations applied to a grayscale
 
 Note: The repository also includes two image files (apple.png and morph.png) that are used as input for the examples.
 
-Feel free to explore the code and experiment with the provided image processing techniques. Have fun learning!
+Feel free to explore the code and experiment with the provided image processing techniques. Have fun learning! 👍
